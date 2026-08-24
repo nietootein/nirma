@@ -1,2 +1,31 @@
-# problemas-irm
-Cuadernos de resolución de problemas para la asignatura Interacción Radiación Materia
+# Interacción de la Radiación con la Materia: Resolución de Problemas (2025-2026)
+
+Este repositorio contiene las resoluciones interactivas de las hojas de problemas de la asignatura **Interacción de la Radiación con la Materia**, diseñadas especialmente para ser ejecutadas de forma directa en **Google Colab**.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nietootein/problemas-irm/blob/main/Problemas-IRM-1.ipynb)
+
+---
+
+## 🚀 Cómo empezar (Un solo clic)
+
+No necesitas descargar nada en tu ordenador local. Para empezar a trabajar:
+
+1. Haz clic en el botón de **Open in Colab** de arriba.
+2. Ejecuta la celda preparatoria.
+3. ¡Listo! Ejecuta el resto de las celdas para visualizar las resoluciones de los problemas.
+
+---
+
+## 🛠️ Requisitos locales (Opcional)
+
+Si prefieres ejecutar este proyecto de forma local en tu ordenador en lugar de Google Colab, necesitarás tener instalado Python 3 y las siguientes librerías científicas:
+
+```bash
+pip install numpy matplotlib pandas
+```
+Y abrir el cuaderno con tu entorno de Jupyter habitual:
+```bash
+jupyter notebook Problemas_Interaccion.ipynb
+```
+
+---
