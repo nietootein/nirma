@@ -2,7 +2,10 @@
 
 Este repositorio contiene las resoluciones interactivas de las hojas de problemas de la asignatura **Interacción de la Radiación con la Materia**, diseñadas especialmente para ser ejecutadas de forma directa en **Google Colab**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nietootein/problemas-irm/blob/main/Problemas-IRM-1.ipynb)
+[![Abrir en Colab: Problemas 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nietootein/problemas-irm/blob/main/notebooks/Problemas-IRM-1.ipynb)
+[![Abrir en Colab: Problemas 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nietootein/problemas-irm/blob/main/notebooks/Problemas-IRM-2.ipynb)
+[![Abrir en Colab: Problemas 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nietootein/problemas-irm/blob/main/notebooks/Problemas-IRM-3.ipynb)
+[![Abrir en Colab: Problemas 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nietootein/problemas-irm/blob/main/notebooks/Problemas-IRM-4.ipynb)
 
 ---
 
