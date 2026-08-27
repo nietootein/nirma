@@ -27,7 +27,7 @@ No necesitas descargar nada en tu ordenador local. Para empezar a trabajar:
 Si prefieres ejecutar este proyecto de forma local en tu ordenador en lugar de Google Colab, necesitarás tener instalado Python 3 y las siguientes librerías científicas:
 
 ```bash
-pip install numpy matplotlib pandas
+pip install numpy matplotlib pandas seaborn ipywidgets
 ```
 Y abrir el cuaderno con tu entorno de Jupyter habitual:
 ```bash
