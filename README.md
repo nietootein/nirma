@@ -1,4 +1,4 @@
-# NIRMA: Desarrollo de Notebooks Interactivos de Python para la Docencia Práctica en Interacción Radiación-Materia
+# NIRMA: Notebooks Interactivos de Python para la Docencia Práctica en Interacción Radiación-Materia
 
 Este repositorio contiene las resoluciones interactivas de las hojas de problemas de la asignatura **Interacción de la Radiación con la Materia**, diseñadas especialmente para ser ejecutadas de forma directa en **Google Colab**.
 
