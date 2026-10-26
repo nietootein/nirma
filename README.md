@@ -4,7 +4,7 @@ Este repositorio contiene las resoluciones interactivas de las hojas de problema
 
 Problemas 1 [![Abrir en Colab: Problemas 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nietootein/nirma/blob/main/notebooks/Problemas-IRM-1.ipynb)
 
-Problemas 2 (🚧 WIP)
+Problemas 2 [![Abrir en Colab: Problemas 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nietootein/nirma/blob/main/notebooks/Problemas-IRM-2.ipynb)
 
 Problemas 3  (🚧 WIP)
 
@@ -29,7 +29,7 @@ No necesitas descargar nada en tu ordenador local. Para empezar a trabajar:
 Si prefieres ejecutar este proyecto de forma local en tu ordenador en lugar de Google Colab, necesitarás tener instalado Python 3 y las siguientes librerías científicas:
 
 ```bash
-pip install numpy matplotlib pandas seaborn ipywidgets
+pip install numpy matplotlib pandas seaborn ipywidgets scipy sympy
 ```
 Y abrir el cuaderno con tu entorno de Jupyter habitual:
 ```bash
