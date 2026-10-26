@@ -6,7 +6,7 @@ Problemas 1 [![Abrir en Colab: Problemas 1](https://colab.research.google.com/as
 
 Problemas 2 [![Abrir en Colab: Problemas 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nietootein/nirma/blob/main/notebooks/Problemas-IRM-2.ipynb)
 
-Problemas 3  (🚧 WIP)
+Problemas 3 [![Abrir en Colab: Problemas 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nietootein/nirma/blob/main/notebooks/Problemas-IRM-3.ipynb)
 
 Problemas 4  (🚧 WIP)
 
