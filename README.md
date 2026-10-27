@@ -10,7 +10,7 @@ Problemas 3 [![Abrir en Colab: Problemas 3](https://colab.research.google.com/as
 
 Problemas 4 [![Abrir en Colab: Problemas 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nietootein/nirma/blob/main/notebooks/Problemas-IRM-4.ipynb)
 
-Problemas 5 (🚧 WIP)
+Problemas 5 [![Abrir en Colab: Problemas 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nietootein/nirma/blob/main/notebooks/Problemas-IRM-5.ipynb)
 
 ---
 
